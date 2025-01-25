@@ -5,6 +5,7 @@ const CACHE_NAME = "gk-vanguard-cache-v1";
 const ASSETS = [
   "/",
   "/index.html",
+  "/Aboutus.html",
   "/styles.css",
   "/script.js",
   "/favicon.ico",
